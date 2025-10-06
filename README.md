@@ -71,4 +71,4 @@ Open the printed URL, enter the password, and generate a case.
 - Keep `CASEGEN_PASSWORD` strong and rotate as needed.
 
 ## License
-Proprietary (or add your preferred license here).
+Proprietary
